@@ -4,8 +4,6 @@ url: https://fanwu-repo-test.github.io
 baseurl: ''
 description: >
   Test environment.
-  
-# permalink: /:title.html
 
 # Markdown
 markdown: kramdown
