@@ -1,3 +1,17 @@
+#Site Settings
+title: Enjoy your time.
+url: https://fanwu-repo-test.github.io
+baseurl: ''
+description: >
+  A site to collect the facts, tricks, understandings and feelings about the real world.
+  
+# permalink: /:title.html
 
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 theme: jekyll-theme-leap-day
