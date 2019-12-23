@@ -1,9 +1,9 @@
 #Site Settings
-title: Enjoy your time.
+title: This is a test environment for my homepage.
 url: https://fanwu-repo-test.github.io
 baseurl: ''
 description: >
-  A site to collect the facts, tricks, understandings and feelings about the real world.
+  Test environment.
   
 # permalink: /:title.html
 
